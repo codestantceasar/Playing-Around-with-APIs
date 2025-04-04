@@ -1,7 +1,3 @@
-Here’s a sample README write-up for your project, which you can place in your repository. This README assumes the repository is about building a currency converter using an API.
-
----
-
 # Currency Converter API
 
 This project is a simple **Currency Converter** built using Flask and an API to fetch real-time exchange rates. It allows users to convert an amount from one currency to another based on current exchange rates.
