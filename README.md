@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-video URL : https://drive.google.com/file/d/1_IivZjfSHJmtIQNb7KGYmvWrNNy3Mwiz/view?usp=drive_link
+video URL on how it works : https://drive.google.com/file/d/1_IivZjfSHJmtIQNb7KGYmvWrNNy3Mwiz/view?usp=drive_link
